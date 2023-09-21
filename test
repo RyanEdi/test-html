@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+
+<body>
+    <header>
+        <nav id="Navegação">
+            <li>Quem somos</li>
+            <li>Contato</li>
+            <li>Fazer Login</li>
+        </nav>
+    </header>
+    <hr>
+    <main>
+        <article>
+            <h2>O que é a RTV</h2>
+            <img src="sports.jpeg" alt="Imagem de um Estádio de eSports!" width="200" height="180" />
+            <p>
+            <h3>A <abbr title="Run To Victory">RTV</abbr> é uma das maiores Organizações de eSports do Brasil!<br>
+                Nosso foco ultimamente está sendo em jogos como Valorant, Apex Legends e Rocket League.</h3>
+            </p>
+        </article>
+    </main>
+    <hr>
+    <footer>
+        <p>@copyrigth 2023 By Run To Victory. All Rights Reversed</p>
+        <time datetime="21-09-2023">21 Janeiro 2023</time>
+    </footer>
+</body>
+
+</html>
